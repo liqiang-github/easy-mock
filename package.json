@@ -100,7 +100,7 @@
     "markdown-it-attrs": "^1.2.1",
     "nodemon": "^1.14.11",
     "postcss": "^6.0.16",
-    "postcss-cssnext": "^3.0.2",
+    "postcss-cssnext": "^3.1.0",
     "postcss-loader": "^2.0.10",
     "postcss-partial-import": "^4.1.0",
     "postcss-url": "^7.3.0",
@@ -121,6 +121,6 @@
     "webpack-node-externals": "^1.6.0"
   },
   "optionalDependencies": {
-    "fsevents": "*"
+    "fsevents": "^1.2.8"
   }
 }
